@@ -1,0 +1,12 @@
+.element {
+  margin: 20px auto;
+}
+.main {
+  background-color: #223;
+  min-height: 100vh;
+  color: #fff;
+}
+
+input {
+  color: #000;
+}
